@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anishdalvi/MERN-Blog-Application.git"
+    "url": "git+https://github.com/Sairam465/Blog_Application.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anishdalvi/MERN-Blog-Application/issues"
+    "url":"https://github.com/Sairam465/Blog_Application.git/issues"
   },
-  "homepage": "https://github.com/anishdalvi/MERN-Blog-Application#readme"
+  "homepage": "https://github.com/Sairam465/Blog_Application.git#readme"
 }
