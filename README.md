@@ -8,16 +8,9 @@ I have used MongoDB Atlas as a Database
 
 ### **[View Demo](https://mern-blog-app-zzot.onrender.com)**
 
-## Demo Images
-
-![Demo Image 1](<frontend/src/assets/Project_Blog App Image 1.png>)
-
-![Demo Image 2](<frontend/src/assets/Project_Blog App Image 2.png>)
 
 
-## Before Running  this application
-<p>Add your MONGODB ATLAS URI in **.env-example** in backend folder </p>
-<p>Rename the .env-example file to **.env** </p>
+
 
 ## To run this application
 
