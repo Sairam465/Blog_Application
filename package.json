@@ -1,24 +1,22 @@
 {
-  "name": "blog-application",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "This is the **BLog Application** Web App developed using MERN Stack",
+  "description": "Blog Application",
   "main": "index.js",
   "scripts": {
-    "start": "node backend/index",
-    "server": "nodemon backend/index",
-    "client": "npm run client --prefix frontend",
-    "build": "npm run build --prefix frontend",
-    "dev": "concurrently \"npm run server\" \"npm run client\""
+    "start": "node index.js",
+    "server": "nodemon index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Sairam465/Blog_Application.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url":"https://github.com/Sairam465/Blog_Application.git/issues"
-  },
-  "homepage": "https://github.com/Sairam465/Blog_Application.git#readme"
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "4.1",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20"
+  }
 }
