@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from 'react'
 
 import { Routes, Route } from 'react-router-dom'
-import Header from './components/Header'
-import Auth from './components/Auth'
-import AddBlog from './components/AddBlog'
-import Blogs from './components/Blogs'
-import BlogDetails from './components/BlogDetails'
-import UserBlogs from './components/UserBlogs'
+import Header from './Header'
+import Auth from './Auth'
+import AddBlog from './AddBlog'
+import Blogs from './Blogs'
+import BlogDetails from './BlogDetails'
+import UserBlogs from './UserBlogs'
 import { useSelector, useDispatch } from 'react-redux'
 import { authActions } from "./store";
 
